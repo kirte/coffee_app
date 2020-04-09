@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "919418829896",
+    "firebase_url": "https://coffice-app-462e3.firebaseio.com",
+    "project_id": "coffice-app-462e3",
+    "storage_bucket": "coffice-app-462e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919418829896:android:b4c5502359ae04dfabec7d",
+        "android_client_info": {
+          "package_name": "coffice.kirte.com.coffice_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919418829896-al4588e6blnobqealiem9kursfh88nca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYtB9RNqTinKIzCAw4UO3tk7zf-su95Aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919418829896-al4588e6blnobqealiem9kursfh88nca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
